@@ -43,7 +43,8 @@ flowchart TD
 
 ## その他
 
-NOTE記載
+NOTE記載  
+
 <https://note.com/yuzu_monaka_/n/n0ed9b26451bb>
 
 <https://note.com/yuzu_monaka_/n/n42976252831a>
