@@ -5,6 +5,7 @@
 Majorコード：0:静止、1:動作中
 
 ツール：VSCode  
+Framework：Arduino  
 使用ライブラリ：NimBLE
 
 対象デバイス：  
